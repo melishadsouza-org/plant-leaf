@@ -49,7 +49,8 @@ Input: Result page URL. Process: Display result page to the user.
 
 <img width="1440" alt="index" src="https://github.com/user-attachments/assets/a4d3efa4-034a-493c-b01e-bd64b3803ea1">
 
-<img width="1440" alt="index 2" src="https://github.com/user-attachments/assets/b8395238-5b88-4d77-b532-19c508c16229">
+<img width="1440" alt="Screenshot 2024-07-30 at 6 42 43 PM" src="https://github.com/user-attachments/assets/a52093c9-6a0d-4cae-8c37-967dc248b0e0">
+
 
 <img width="1405" alt="Screenshot 2024-07-30 at 6 26 21 PM" src="https://github.com/user-attachments/assets/0abd559c-af9b-42a0-b795-cf979e52aff7">
 
