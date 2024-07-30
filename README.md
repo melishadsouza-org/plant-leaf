@@ -1,4 +1,4 @@
-# plant-leaf-Disease-Identification
+# plant-leaf-Disease-Identification-using-CNN
 * Problem statement
 The project ”Plant Leaf Disease Identification Using Image Recognition” aims to develop a system that automates the detection and classification of diseases in plant leaves. Traditionally, this task involves labor-intensive and error-prone manual inspections. The primary goal is to create an efficient, accurate tool using deep learning techniques to iden- tify and categorize leaf diseases quickly, reducing the need for manual intervention. The dataset used for this project includes images of healthy and diseased leaves from tomato, potato, and pepper bell plants. This project seeks to improve early disease detection and management in agriculture by leveraging advanced image recognition technologies.
 
