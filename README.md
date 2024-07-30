@@ -1,18 +1,18 @@
 # plant-leaf-Disease-Identification-using-CNN
-* Problem statement
+* ** Problem statement**
 The project ”Plant Leaf Disease Identification Using Image Recognition” aims to develop a system that automates the detection and classification of diseases in plant leaves. Traditionally, this task involves labor-intensive and error-prone manual inspections. The primary goal is to create an efficient, accurate tool using deep learning techniques to iden- tify and categorize leaf diseases quickly, reducing the need for manual intervention. The dataset used for this project includes images of healthy and diseased leaves from tomato, potato, and pepper bell plants. This project seeks to improve early disease detection and management in agriculture by leveraging advanced image recognition technologies.
 
-* Dataset
+* **Dataset**
 - Download a dataset from kaggle. Here, I have taken a dataset that contains 15 classes of 3 types of plants. Also, the dataset was split into train and test dataset in the code app.iynb
 
-* Functional requirements
+* **Functional requirements**
 • Image Processing and Analysis:Use OpenCV and NumPy for handling and analyz- ing plant leaf images.
 • Model Development and Training: Utilize TensorFlow and Keras for training CNN models to classify leaf diseases.
 • Interactive Development Environment:VS Code for coding and debugging.
 • Web Interface: Develop a user-friendly web interface with Flask for image uploads
 and result displays.
 
-* Software Requirements
+* **Software Requirements**
 • Integrated Development Environment (IDE):
 Visual Studio Code: Used for coding, debugging, and running Python scripts.
 • Web Development
@@ -24,7 +24,7 @@ Visual Studio Code: Used for coding, debugging, and running Python scripts.
 • Operating System
 MacOS or Windows: As your development and deployment environment.
 
-* Libraries and Frameworks
+* **Libraries and Frameworks**
 • TensorFlow: For building and training the Convolutional Neural Network (CNN). Version: 2.x
 • OpenCV: For image processing tasks. Version: 4.x
 • NumPy: For numerical operations and array manipulations.
@@ -34,7 +34,7 @@ MacOS or Windows: As your development and deployment environment.
 • Flask: For creating the web application to upload and display results. Version: 2.x
 
 
-* Data Flow Design
+* **Data Flow Design**
 • User Uploads Image
 Input: User selects and uploads an image through the web interface.
 • Front-End Processing
